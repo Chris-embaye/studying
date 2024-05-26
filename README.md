@@ -1,1 +1,2 @@
-# studying
+# studying 
+Working on my own project 
